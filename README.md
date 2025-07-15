@@ -42,12 +42,11 @@ Bu proje, küçük ve orta ölçekli işletmeler için profesyonel bir stok yön
 4. Arama ve kategori filtrelerini kullanarak ürünleri kolayca bulun.
 5. Rapor ve yedekleme butonlarını kullanarak stok durumunu analiz edin ve dosyanızı yedekleyin.
 
-## Ekran Görüntüsü
-> Arayüzün ekran görüntüsünü buraya ekleyebilirsiniz.
+
 
 ## Katkı ve Lisans
 Bu proje örnek ve eğitim amaçlıdır. Dilediğiniz gibi geliştirebilir ve paylaşabilirsiniz.
 
 ---
 
-**Hazırlayan:** github.com/kullanici_adi 
+**Hazırlayan:** github.com/yusufyigitbozgeyik
